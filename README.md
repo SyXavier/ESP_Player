@@ -59,7 +59,7 @@
 
   * 图形框架使用LVGL 8.0版本
 
-  * hareware/esp32 复制到Arduino安装路径中的hardware下
+  * arduino-esp32/esp32 复制到Arduino安装路径中的hardware下
 
   * libraries中的驱动复制到Arduino安装路径中的Arduino/libraries
 
